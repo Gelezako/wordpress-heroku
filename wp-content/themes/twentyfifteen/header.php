@@ -12,6 +12,7 @@
 <html <?php language_attributes(); ?> class="no-js">
 <head>
 	<meta name="yandex-verification" content="471415d2d4fe7769" />
+	<meta name="google-site-verification" content="fe-unqyjdQ7tL1OYwFnewr5uLUIwLPBE3BCoud4EAKw" />
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
