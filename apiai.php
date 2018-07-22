@@ -11,7 +11,7 @@ function processMessage($update) {
         sendMessage(array(
             "source" => $update["result"]["source"],
             "speech" => $update["result"]["parameters"]["msg"],
-            "displayText" => ".........TEXT HERE...........",
+            "displayText" => "my text",
             "contextOut" => array()
         ));
     }
