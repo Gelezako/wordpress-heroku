@@ -11,6 +11,7 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
 <head>
+	<meta name="yandex-verification" content="aca9d141f4f48682" />
 	<meta name="yandex-verification" content="471415d2d4fe7769" />
 	<meta name="google-site-verification" content="fe-unqyjdQ7tL1OYwFnewr5uLUIwLPBE3BCoud4EAKw" />
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
