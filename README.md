@@ -8,7 +8,7 @@ This project is a template for installing and running [WordPress](http://wordpre
 
 ## Installation
 
-Clone the repository from Github
+Clone the repository from Github.
 
     $ git clone git://github.com/mhoofman/wordpress-heroku.git
 
